@@ -9,6 +9,28 @@ Features Flags
 [#] Feature has been fixed
 [-] Feature has been removed
 
+v 1.1.4.0
+[+] Now it's possible to start an export to file from command line.
+[+] Added classes filter (example: multimedia, archives ecc...)
+[!] Improved stability when deleting a focused folder.
+[!] Added "SpaceSniffer" to all floating windows title.
+[#] Now paths with spaces behave again correctly in command line.
+---------
+
+v 1.1.3.1
+---------
+[!] Now if a filter is passed by the command line, it appears 
+    on the filter field on the interface.
+[#] Addressed the annoying "tag consistency check" issue 
+    that may occur during scan operations.
+[#] Addressed a "code 32" error log issue that may occur when 
+    a folder creation is intercepted by the real time scan engine.
+[#] Now the log console displays again error message strings, 
+    along with the error code.
+[#] If a selected (shadowed) file is deleted, now the shadow 
+    correctly disappears and there is no more "ghost" effect.
+
+
 v 1.1.3.0
 ---------
 [+] Added file classes, you can assign colors to file types.
@@ -120,4 +142,4 @@ Release digit will change when only bug fixes are applied.
 So, if bug fixes are applied but also new features are added,
 the Major or Minor digits will prevail on Release digit.
 
-Copyright (C) 2007-2009 Uderzo Umberto. All rights reserved.
+Copyright (C) 2007-2012 Uderzo Umberto. All rights reserved.
