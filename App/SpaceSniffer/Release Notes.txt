@@ -9,6 +9,19 @@ Features Flags
 [#] Feature has been fixed
 [-] Feature has been removed
 
+v 1.3.0.0
+---------
+[!] Improved stability
+[+] Added the drive free space directly on the window title
+[!] Changed log console toolbar icons to (hopefully) more meaningful ones
+[+] Now the log console can give hints on certain errors
+[+] Now it's possible to deactivate the file system changes detector
+[#] Fixed a deadlock that occurred when closing the main window, keeping the app in memory
+[#] Fixed Base64 parsing of pre 1.2.0.0 config files
+[#] Fixed bad color list rendering in config panel
+[-] Executable is no more packed using UPX, due to some false positive virus warnings
+
+
 v 1.2.0.2
 ---------
 [#] Fixed a scan issue (error 87) under XP and Vista.
@@ -180,4 +193,4 @@ Release digit will change when only bug fixes are applied.
 So, if bug fixes are applied but also new features are added,
 the Major or Minor digits will prevail on Release digit.
 
-Copyright (C) 2007-2014 Uderzo Umberto. All rights reserved.
+Copyright (C) 2007-2016 Uderzo Umberto. All rights reserved.

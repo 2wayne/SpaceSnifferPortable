@@ -21,7 +21,7 @@ of loss while using or misusing this software.
 License
 -------
 SpaceSniffer is free for personal and educational (including 
-non-profit organization) use. In these cases, you are granted 
+non-profit organization) use. In these cases, you are granted 
 the right to use and to make an unlimited number of copies 
 of this software.
 
@@ -52,5 +52,5 @@ This software must not be decompiled, disassembled, reverse
 engineered or otherwise modified. The software is free for use
 but source code is not free.
 
-Copyright (C) 2007-2014 Uderzo Umberto. All rights reserved.
+Copyright (C) 2007-2016 Uderzo Umberto. All rights reserved.
 
