@@ -9,6 +9,12 @@ Features Flags
 [#] Feature has been fixed
 [-] Feature has been removed
 
+v 1.3.0.1
+---------
+[!] Improved rendering speed
+[#] Fixed codepage in export function
+[#] Restored centered text position for non-drilled folder items (bugged since v 1.1.3.0)
+
 v 1.3.0.0
 ---------
 [!] Improved stability
